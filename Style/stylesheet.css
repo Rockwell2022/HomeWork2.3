@@ -1,0 +1,29 @@
+header{
+    height: 100px;
+    background-color: #bbb;
+}
+footer{
+    height: 80px;
+    background-color: #aaa;
+}
+#menu{
+    display:flex;
+}
+#menu li{
+    margin: 40px 15px;
+}
+#app{
+    min-height: 755px;
+    padding-top: 20px;
+}
+input{
+    width: 100%;
+}
+alert{
+    color:#f00;
+    visibility: hidden;
+    line-height: 80px;
+}
+li{
+    list-style: none;
+}
